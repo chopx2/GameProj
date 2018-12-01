@@ -1,0 +1,2 @@
+C:\Users\Joseph\Desktop\MMORPG\Server\MMORPG_SERVER\obj\x86\Debug\MMORPG_SERVER.csprojAssemblyReference.cache
+C:\Users\Joseph\Desktop\MMORPG\Server\MMORPG_SERVER\obj\x86\Debug\MMORPG_SERVER.csproj.CoreCompileInputs.cache
